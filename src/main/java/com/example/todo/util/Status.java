@@ -1,4 +1,4 @@
-package util;
+package com.example.todo.util;
 
 public enum Status {
     PENDING,

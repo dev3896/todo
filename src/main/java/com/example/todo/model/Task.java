@@ -1,9 +1,9 @@
-package modal;
+package com.example.todo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import util.Status;
+import com.example.todo.util.Status;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
